@@ -3,7 +3,7 @@
 
 It provides you quick guidance to host your site on Heroku with some minor changes and addition of new files in your project folder.
 
-######As you are aware that Heroku doesnt allow you to host static content, in order to do so you have to show case that your website runs on php than being static. Here are the steps that you have to follow:
+#####As you are aware that Heroku doesnt allow you to host static content, in order to do so you have to show case that your website runs on php than being static. Here are the steps that you have to follow:
 
 
 
